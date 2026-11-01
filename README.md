@@ -1,4 +1,16 @@
 # 3D-Tycoon
+
+How to Download:
+
+Go to: https://itch.io/game/edit/5282878
+Click Download
+
+Extract the files 
+<img width="223" height="242" alt="image" src="https://github.com/user-attachments/assets/fec62c88-f518-4a74-a9c8-989ff61f13ae" />
+
+and then double click and you can play!
+
+
 Making 3d Tycoon game
 
 Controlls:
